@@ -1,1 +1,0 @@
-1. Minimum Swaps Required to Sort an Array
